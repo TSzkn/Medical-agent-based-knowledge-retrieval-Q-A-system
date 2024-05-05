@@ -1,0 +1,1 @@
+bash /content/drive/MyDrive/ISS/5005/finetuning/Qwen-main/finetune/finetune_qlora_single_gpu.sh -m /content/drive/MyDrive/ISS/5005/finetuning/model/qwen/Qwen-7B-Chat-Int4 -d /content/drive/MyDrive/ISS/5005/finetuning/train.json
